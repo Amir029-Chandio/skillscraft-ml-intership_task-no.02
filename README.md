@@ -1,39 +1,29 @@
-# Task 02: Customer Segmentation using K-Means Clustering
+# 🧾 Task 02: Customer Segmentation – K-Means Clustering
 
 ## 📌 Objective
-To implement a **K-Means Clustering** algorithm that segments retail customers based on their shopping patterns.
+Apply **K-Means Clustering** to segment customers from a banking dataset for targeted marketing.
 
-## 🧠 Dataset
-The **Mall Customer Dataset** includes features such as:
-- `CustomerID`
-- `Gender`
-- `Age`
-- `Annual Income (k$)`
-- `Spending Score (1–100)`
+## 📊 Techniques Used
+- K-Means Clustering
+- Data Preprocessing
+- Elbow Method
+- Cluster Visualization
 
-These features help identify distinct customer groups with similar purchasing behaviors.
+## 🧠 Skills Practiced
+- Unsupervised Learning
+- Cluster Analysis
+- Data Visualization with Seaborn & Matplotlib
 
-## ⚙️ Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Seaborn / Matplotlib
-- Jupyter Notebook
+## 📁 Files in Repo
+- `customer_segmentation.ipynb` – Jupyter Notebook with complete code
+- `bank_customers.csv` – Dataset
+- `README.md` – Project documentation
 
-## 🎯 Output
-- Visualization of clusters using 2D and 3D plots
-- Segmented customer groups for targeted marketing
-
-## 📁 Files
-- `mall_customer_dataset.csv`: Original dataset
-- `kmeans_clustering_model.ipynb`: Implementation and results
-
-## 🏢 Internship
-This task was completed under the **Skillscraft Technology** Machine Learning Internship Program 2025.
-
----
-
-📧 Contact:  
+## 🙋‍♂️ Author
 **Amir Bux Chandio**  
-Intern - Skillscraft Technology  
-[amirbuxchandio35@gmail.com](mailto:amirbuxchandio35@gmail.com)
+🎓 Data Science Student  
+📧 amirbuxchandio35@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/amirbuxchandio)
+
+## 🙏 Internship
+This project was completed as part of my **SkillCraft Technology Internship**.
